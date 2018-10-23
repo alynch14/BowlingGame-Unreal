@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BowlingTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Adam\Documents\Github\UnrealProjects\BowlingTest\Intermediate\Build\Win64\BowlingTestEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Adam\Documents\Github\UnrealProjects\BowlingTest\Intermediate\Build\Win64\UE4Editor\Development\BowlingTest\BowlingTest.cpp.obj"
+"C:\Users\Adam\Documents\Github\UnrealProjects\BowlingTest\Intermediate\Build\Win64\UE4Editor\Development\BowlingTest\BowlingTestBall.cpp.obj"
+"C:\Users\Adam\Documents\Github\UnrealProjects\BowlingTest\Intermediate\Build\Win64\UE4Editor\Development\BowlingTest\BowlingTestGameMode.cpp.obj"
+"C:\Users\Adam\Documents\Github\UnrealProjects\BowlingTest\Intermediate\Build\Win64\UE4Editor\Development\BowlingTest\BowlingTest.init.gen.cpp.obj"
+"C:\Users\Adam\Documents\Github\UnrealProjects\BowlingTest\Intermediate\Build\Win64\UE4Editor\Development\BowlingTest\BowlingTestBall.gen.cpp.obj"
+"C:\Users\Adam\Documents\Github\UnrealProjects\BowlingTest\Intermediate\Build\Win64\UE4Editor\Development\BowlingTest\BowlingTestGameMode.gen.cpp.obj"
+"C:\Users\Adam\Documents\Github\UnrealProjects\BowlingTest\Intermediate\Build\Win64\UE4Editor\Development\BowlingTest\PCLaunch.rc.res"
+/OUT:"C:\Users\Adam\Documents\Github\UnrealProjects\BowlingTest\Intermediate\Build\Win64\UE4Editor\Development\BowlingTest\UE4Editor-BowlingTest.lib"

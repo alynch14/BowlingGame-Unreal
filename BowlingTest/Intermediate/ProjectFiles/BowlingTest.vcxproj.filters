@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BowlingTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D98E335A-38C6-4A1A-A1E9-623112B5ECA4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BowlingTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BowlingTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1E958DC9-05C0-4A0D-BC59-F11F28184713}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BowlingTest">
+      <UniqueIdentifier>{F3FDBA1A-48BB-435E-930E-B3AB508B4FD6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BowlingTest\BowlingTest.Build.cs">
+      <Filter>Source\BowlingTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BowlingTest\BowlingTest.cpp">
+      <Filter>Source\BowlingTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BowlingTest\BowlingTest.h">
+      <Filter>Source\BowlingTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BowlingTest\BowlingTestBall.cpp">
+      <Filter>Source\BowlingTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BowlingTest\BowlingTestBall.h">
+      <Filter>Source\BowlingTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BowlingTest\BowlingTestGameMode.cpp">
+      <Filter>Source\BowlingTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BowlingTest\BowlingTestGameMode.h">
+      <Filter>Source\BowlingTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BowlingTest\MyFirstClass.cpp">
+      <Filter>Source\BowlingTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BowlingTest\MyFirstClass.h">
+      <Filter>Source\BowlingTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\..\source\repos\BowlingCaluclator\BowlingCaluclator\BowlingCaluclator.cpp">
+      <Filter>Source\BowlingTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\source\repos\BowlingCaluclator\BowlingCaluclator\DoubleLinkedList.cpp">
+      <Filter>Source\BowlingTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\source\repos\BowlingCaluclator\BowlingCaluclator\Frame.cpp">
+      <Filter>Source\BowlingTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\source\repos\BowlingCaluclator\BowlingCaluclator\pch.cpp">
+      <Filter>Source\BowlingTest</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\..\source\repos\BowlingCaluclator\BowlingCaluclator\DoubleLinkedList.h">
+      <Filter>Source\BowlingTest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\source\repos\BowlingCaluclator\BowlingCaluclator\Frame.h">
+      <Filter>Source\BowlingTest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\source\repos\BowlingCaluclator\BowlingCaluclator\pch.h">
+      <Filter>Source\BowlingTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
